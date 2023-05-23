@@ -2,7 +2,7 @@
 ## Este repositório foi criado como uma homenagem ao personagem KitKat, popularmente conhecido na comunidade de FiveM GTA RP.
 
 # Visão Geral
-Este projeto é uma página web interativa desenvolvida usando as linguagens HTML, CSS e JavaScript.
+## Este projeto é uma página web interativa desenvolvida usando as linguagens HTML, CSS e JavaScript.
 
 # Estrutura do Projeto
 ## O repositório está organizado da seguinte forma:
